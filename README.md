@@ -42,6 +42,5 @@ An iOS weather app: current conditions, a 5-day forecast in 3-hour steps, and a 
 4. Open `APIKey.swift` and replace `Your_API_KEY` with your key.
 5. Select a simulator and press Run.
 
-`APIKey.swift` is listed in `.gitignore`, so your key will not be committed. If Xcode shows `APIKey.swift` in red, the file has not been created at that path yet. Without a valid key, requests will fail with a bad status code (401).
 
 
