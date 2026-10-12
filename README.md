@@ -5,10 +5,10 @@ An iOS weather app: current conditions, a 5-day forecast in 3-hour steps, and a 
 ## Screenshots
 
 <p align="center">
-  <img src="AppScreenshots/main-clouds.jpg" width="200" alt="Main screen, scattered clouds">
-  <img src="AppScreenshots/main-snow.jpg" width="200" alt="Main screen, light snow">
-  <img src="AppScreenshots/cities.jpg" width="200" alt="City management">
-  <img src="AppScreenshots/search.jpg" width="200" alt="City search">
+  <img src="AppScreenshots/main-clouds.png" width="200" alt="Main screen, scattered clouds">
+  <img src="AppScreenshots/main-snow.png" width="200" alt="Main screen, light snow">
+  <img src="AppScreenshots/cities.png" width="200" alt="City management">
+  <img src="AppScreenshots/search.png" width="200" alt="City search">
 </p>
 
 ## Features
